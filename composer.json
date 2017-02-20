@@ -1,0 +1,19 @@
+{
+    "name": "dvjunior/TelegramBots",
+    "type": "library",
+    "description": "Telegram Bots using PHP",
+    "keywords": ["telegram", "bot", "api", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Vieira Junior",
+            "email": "djunior.dev@gmail.com",
+            "homepage": "https://github.com/dvjunior/TelegramBots",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "longman/telegram-bot": "*"
+    }
+}

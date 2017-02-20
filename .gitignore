@@ -1,0 +1,7 @@
+# Composer #
+composer.phar
+vendor/
+
+
+# System/Applcaiton file configuration#
+config/config.php
